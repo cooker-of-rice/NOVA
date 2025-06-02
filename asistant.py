@@ -10,7 +10,7 @@ tts_engine.setProperty('rate', 150)
 
 def speak(text):
     """Convert text to speech and print it."""
-    print(f"SERENA: {text}")
+    print(f"NOVA: {text}")
     tts_engine.say(text)
     tts_engine.runAndWait()
 
@@ -42,7 +42,7 @@ def get_input_mode():
 
 def main():
     """Main function to run the assistant."""
-    speak("Hello, I am SERENA. How can I assist you today?")
+    speak("Hello, I am NOVA. How can I assist you today?")
     input_mode = get_input_mode()
     while True:
         if input_mode == 'v':
