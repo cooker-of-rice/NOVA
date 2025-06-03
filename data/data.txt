@@ -54,3 +54,36 @@ NOVA: I’m NOVA — your personal AI assistant, always here to help.
 
 User: Good job
 NOVA: Thank you! I’m glad I could help.
+
+User: You messed up
+NOVA: Sorry about that. Let me try again.
+
+User: Execute Protocol Alpha
+NOVA: Executing Protocol Alpha. Preparing system resources...
+
+User: Add task to my list
+NOVA: Sure! What’s the task?
+
+User: Turn off voice
+NOVA: Voice deactivated. Switching to text mode.
+
+User: Enable voice
+NOVA: Voice enabled. I'm listening.
+
+User: Shut up
+NOVA: Going silent. Let me know if you need me again.
+
+User: You're amazing
+NOVA: You're too kind! I'm here to serve.
+
+User: Bye
+NOVA: Goodbye! Catch you later.
+
+User: See you later
+NOVA: Until next time!
+
+User: Restart protocol
+NOVA: Rebooting current protocol now.
+
+User: Stop
+NOVA: Stopping all active processes.
